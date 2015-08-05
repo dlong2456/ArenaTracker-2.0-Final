@@ -1,0 +1,13 @@
+/main/
+/model/
+/controller/
+/TurtleTracker.dll
+/USB4.h
+/USB4.lib
+/USB4Device.dll
+/main_TurtleTracker.c
+/main_TurtleTracker.h
+/main_USB4Device.c
+/main_USB4Device.h
+/view/
+/exceptions/
